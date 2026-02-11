@@ -136,7 +136,7 @@ ckpts/decoder_best.pth
 The model reaches stable convergence over 50 epochs using L1 (MAE) loss.
 
 <p align="center">
-  <img src="assets/loss.png" width="480">
+  <img src="assets/loss_plot.png" width="480">
 </p>
 
 The curve indicates:
