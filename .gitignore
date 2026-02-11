@@ -1,0 +1,28 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.env/
+
+# Dataset (ASLA yüklenmesin)
+decoder_pairs*/
+dataset*/
+data/
+
+# Large generated outputs
+outputs/
+preds*/
+preds_safe/
+
+# Experimental / temporary checkpoints
+ckpts_tuned/
+*.tmp
+
+# OS junk
+.DS_Store
+Thumbs.db
+
